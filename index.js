@@ -15,7 +15,6 @@ function openCloseMenu(open) {
 }
 
 window.addEventListener("load", () => {
-  console.log("a");
   document.body.classList.remove("preload");
 });
 
